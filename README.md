@@ -4,7 +4,7 @@ A handwritten digit classification project using **Perceptron, Artificial Neural
 
 ## 🚀 Live Demo
 
-[Try the MNIST Digit Classifier](https://mnist-digit-classifier-4ko5nobnzot2gtgzy28xzw.streamlit.com)
+[Try the MNIST Digit Classifier](https://mnist-digit-classifier-4ko5nobnzot2gtgzy28xzw.streamlit.app)
 
 ## 📌 Project Overview
 
